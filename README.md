@@ -1,14 +1,14 @@
 # Finding Lane Lines
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-The purpose of this project is to develope a software to create a pipeline to find lane lines on the road using Python and OpenCV library. Fo detailed description of the project check [writeup](Link to the Writeup here)
+The purpose of this project is to develope a software to create a pipeline to find lane lines on the road using Python and OpenCV library. For detailed description of the project check [Writeup](https://github.com/snehalmparmar/CarND-LaneLines-P1/blob/master/Writeup.MD) here.
 
 ![Finding lane lines](https://github.com/snehalmparmar/CarND-LaneLines-P1/blob/master/Test_OutputVideoDir/solidWhiteRight.gif)
 
 ## Overview
 When we drive, we use our eyes to decide where to go.  The lines on the road that show us where the lanes are act as our constant reference for where to steer the vehicle.  Naturally, one of the first things we would like to do in developing a self-driving car is to automatically detect lane lines using an algorithm.
 
-To work on this project consider following steps to setup on your Windows computer (Steps might defer on Mac and Linux OS):
+To work on this project consider following steps to setup on your computer:
 
 1: Install [Anaconda](https://www.anaconda.com/distribution/) and [OpenCV4](https://sourceforge.net/projects/opencvlibrary/files/4.1.1/opencv-4.1.1-vc14_vc15.exe/download) on you computer.
 
