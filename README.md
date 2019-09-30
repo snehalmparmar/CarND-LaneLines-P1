@@ -64,4 +64,7 @@ To work on this project consider following steps to setup on your computer:
 **Questions & Feedback**
 
 Contact me about this project about this project and self driving car in general. I would be happy to connect with you.
+
+* Linkedin: [Snehal Parmar](https://www.linkedin.com/in/snehal-parmar-239a9112/)
+* Email: [snehalparmar.nvs@gmail.com](mailto:snehalparmar.nvs@gmail.com)
   
