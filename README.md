@@ -57,7 +57,7 @@ To work on this project consider following steps to setup on your computer:
   
 **Run** `P1.ipynb` and check outputs in image folders and video output directory.
 
-**Deactivet** carnd environment using following command
+**Deactivate** carnd environment using following command
   
     conda deactivate carnd
     
